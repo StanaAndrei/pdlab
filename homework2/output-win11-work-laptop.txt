@@ -1,0 +1,19 @@
+--- Connected Physical Peripherals ---
+
+Connected Device #1 (Bus: USB)
+  Description: Realtek DMFT - IR
+  Friendly Name: HP IR Camera
+  Manufacturer: Realtek
+  Hardware IDs:
+      - USB\VID_0408&PID_545A&REV_0007&MI_02
+      - USB\VID_0408&PID_545A&MI_02
+---------------------------------------
+Connected Device #2 (Bus: USB)
+  Description: HP Universal Camera Driver
+  Friendly Name: HP 5MP Camera
+  Manufacturer: Realtek
+  Hardware IDs:
+      - USB\VID_0408&PID_545A&REV_0007&MI_00
+      - USB\VID_0408&PID_545A&MI_00
+---------------------------------------
+Total connected peripherals found: 2
